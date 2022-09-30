@@ -1,4 +1,4 @@
 package com.example.scheduleapp
 
-class Calendar {
+class CalendarDate {
 }
